@@ -19,7 +19,7 @@ La Hemofilia leve, también conocida como Hemofilia A es una enfermedad heredita
 
 * El Gen F8 codifica el factor VIII de coagulación en el cromosoma Xq28.
 
-! [alt text](https://i.imgur.com/NLSEUF9.jpg "CoagFac")
+![alttext](https://i.imgur.com/NLSEUF9.jpg "CoagFac")
 
 ### Pregunta 3 
 **¿Tiene nombres alternativos el gen? ¿Cuáles?**
