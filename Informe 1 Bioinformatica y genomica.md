@@ -1,4 +1,4 @@
-Informe Laboratorio 1
+Informe Laboratorio 1 Bioinformatica y Genómica
 ====
 
 * Karina Campos
@@ -240,7 +240,7 @@ El gen de GAPDH de *Danio rerio* tiene una longitud de 4931 pares de bases, mien
 
 El numero de acceso de la proteina codificada es [Q5XJ10](https://www.uniprot.org/uniprot/Q5XJ10)
 
-###Pregunta 21 y 22
+### Pregunta 21 y 22
 **Descarga la secuencia en formato FASTA y agrégala a tu informe / Adjunta la secuencia en formato NEXUS a tu informe.**
 
 <code>
