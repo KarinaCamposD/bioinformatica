@@ -1,6 +1,6 @@
 Informe Laboratorio 1 Bioinformatica y Genómica
 ====
-- [Parte 1](#Parte 1)
+- [Parte-1](#Parte-1)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
