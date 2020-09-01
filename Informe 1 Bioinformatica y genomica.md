@@ -1,14 +1,12 @@
 Informe Laboratorio 1 Bioinformatica y Genómica
 ====
 - [Parte-1](#Parte-1)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+
+- [Parte-2](#Parte-2)
+
+- [Parte-3](#Parte-3)
+
+
 * Karina Campos
 * Cristobal Madrid
 
