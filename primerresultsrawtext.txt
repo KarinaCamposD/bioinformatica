@@ -1,0 +1,68 @@
+PRIMER PICKING RESULTS FOR NM_003140.3:80-694 Homo sapiens sex determining region Y (SRY), mRNA
+
+Template masking not selected
+No mispriming library specified
+Using 1-based sequence positions
+OLIGO            start  len      tm     gc%  any_th  3'_th hairpin seq 
+LEFT PRIMER        175   20   59.02   50.00    0.00   0.00    0.00 AGAGTGAAGCGACCCATGAA
+RIGHT PRIMER       365   20   59.02   50.00    3.32   0.00    0.00 TCTCTGTGCATGGCCTGTAA
+SEQUENCE SIZE: 615
+INCLUDED REGION SIZE: 615
+
+PRODUCT SIZE: 191, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+    1 ATGCAATCATATGCTTCTGCTATGTTAAGCGTATTCAACAGCGATGATTACAGTCCAGCT
+                                                                  
+
+   61 GTGCAAGAGAATATTCCCGCTCTCCGGAGAAGCTCTTCCTTCCTTTGCACTGAAAGCTGT
+                                                                  
+
+  121 AACTCTAAGTATCAGTGTGAAACGGGAGAAAACAGTAAAGGCAACGTCCAGGATAGAGTG
+                                                            >>>>>>
+
+  181 AAGCGACCCATGAACGCATTCATCGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTA
+      >>>>>>>>>>>>>>                                              
+
+  241 GAGAATCCCAGAATGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAATG
+                                                                  
+
+  301 CTTACTGAAGCCGAAAAATGGCCATTCTTCCAGGAGGCACAGAAATTACAGGCCATGCAC
+                                                   <<<<<<<<<<<<<<<
+
+  361 AGAGAGAAATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAAGATGCTGCCGAAG
+      <<<<<                                                       
+
+  421 AATTGCAGTTTGCTTCCCGCAGATCCCGCTTCGGTACTCTGCAGCGAAGTGCAACTGGAC
+                                                                  
+
+  481 AACAGGTTGTACAGGGATGACTGTACGAAAGCCACACACTCAAGAATGGAGCACCAGCTA
+                                                                  
+
+  541 GGCCACTTACCGCCCATCAACGCAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCAC
+                                                                  
+
+  601 TGGACAAAGCTGTAG
+                     
+
+KEYS (in order of precedence):
+>>>>>> left primer
+<<<<<< right primer
+
+ADDITIONAL OLIGOS
+                    start  len      tm     gc%  any_th  3'_th hairpin seq 
+
+ 1 LEFT PRIMER        346   20   59.02   50.00    5.01   0.00    0.00 TTACAGGCCATGCACAGAGA
+   RIGHT PRIMER       524   20   58.70   50.00    0.00   0.00    0.00 CTTGAGTGTGTGGCTTTCGT
+   PRODUCT SIZE: 179, PAIR ANY_TH COMPL: 14.17, PAIR 3'_TH COMPL: 5.45
+
+ 2 LEFT PRIMER        171   20   58.89   55.00    0.00   0.00    0.00 GGATAGAGTGAAGCGACCCA
+   RIGHT PRIMER       369   20   59.31   50.00    3.32   0.00    0.00 TTTCTCTCTGTGCATGGCCT
+   PRODUCT SIZE: 199, PAIR ANY_TH COMPL: 0.54, PAIR 3'_TH COMPL: 0.00
+
+ 3 LEFT PRIMER        407   20   59.26   50.00    0.00   0.00    0.00 AGATGCTGCCGAAGAATTGC
+   RIGHT PRIMER       610   20   58.84   55.00    3.51   0.58    0.00 GCTTTGTCCAGTGGCTGTAG
+   PRODUCT SIZE: 204, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+ 4 LEFT PRIMER        404   20   58.71   50.00    0.00   0.00    0.00 CGAAGATGCTGCCGAAGAAT
+   RIGHT PRIMER       615   20   58.84   55.00    3.51   0.00    0.00 CTACAGCTTTGTCCAGTGGC
+   PRODUCT SIZE: 212, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
