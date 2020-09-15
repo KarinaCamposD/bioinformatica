@@ -1,4 +1,4 @@
-Informe Bioinformática 3 
+Informe Bioinformática 3 - Ensamblaje de Genomas
 ====
 
 * Karina Campos
@@ -11,9 +11,13 @@ Informe Bioinformática 3
 
 **¿Cuántos *Sequencing Projects y Analysis Projects* hay depositados en GOLD? ¿Cuál es la diferencia entre ambos?**
 
+Hay 356.082 **Sequencing Projects** y 283.853 **Analysis projects** a la fecha 15 de septiembre. 
+
 ## Pregunta 2
 
 **¿Cuál es el dominio más representado en la base de datos, *archea*, *bacteria*, *eukaryote*, o *virus*?**
+
+A la fecha, el dominio más representado es el de bacteria, teniendo 
 
 ## Pregunta 3
 
