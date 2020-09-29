@@ -17,16 +17,27 @@ Hay 356.082 **Sequencing Projects** y 283.853 **Analysis projects** a la fecha 1
 
 **¿Cuál es el dominio más representado en la base de datos, *archea*, *bacteria*, *eukaryote*, o *virus*?**
 
-A la fecha, el dominio más representado es el de bacteria, teniendo 
+
+A la fecha, el dominio más representado es el de bacteria, teniendo 175.897 a la fecha (2020).
+![1](https://raw.githubusercontent.com/CoderProgramerPro/bioinformatica/master/informe%203/Imagenes%20informe%203/1.png)
 
 ## Pregunta 3
 
 **¿Cuáles son los *phyla* más representados entre los proyectos de genomas bacterianos en la base de datos?**
 
+
+![2](https://raw.githubusercontent.com/CoderProgramerPro/bioinformatica/master/informe%203/Imagenes%20informe%203/2.png)
+
+
 ## Pregunta 4
 
 **¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD? 
 (tipo de proyecto, se refiere al tópico de la investigación, por ejemplo, salud humana, ambiental, etc.)**
+
+
+
+![3](https://raw.githubusercontent.com/CoderProgramerPro/bioinformatica/master/informe%203/Imagenes%20informe%203/3.png)
+
 
 
 ## Pregunta 5
@@ -37,6 +48,17 @@ A la fecha, el dominio más representado es el de bacteria, teniendo
 
 **Explica, qué es el N50, L50, y NG50.**
 
+
+
+![4](https://raw.githubusercontent.com/CoderProgramerPro/bioinformatica/master/informe%203/Imagenes%20informe%203/4.png)
+
+
+
+
+![5](https://raw.githubusercontent.com/CoderProgramerPro/bioinformatica/master/informe%203/Imagenes%20informe%203/5.png)
+
+
+
 ## Pregunta 7
 
 **¿Cuál es el propósito de calcular estas estadísticas?**
@@ -44,6 +66,11 @@ A la fecha, el dominio más representado es el de bacteria, teniendo
 ## Pregunta 8
 
 **¿Cuántos *contigs* conforman el genoma del Bonobo? ¿Cuál es el N50 y L50 del genoma? (responde basado en los *contigs*)**
+
+
+
+![6](https://raw.githubusercontent.com/CoderProgramerPro/bioinformatica/master/informe%203/Imagenes%20informe%203/6.png)
+
 
 ## Pregunta 9
 
