@@ -89,10 +89,12 @@ N50, L50 y NG50 son estadísticas de un conjunto de longitudes de contig. Se uti
 ## Pregunta 9
 
 **¿Cuál es el largo total y porcentaje de GC del genoma del Bonobo? ¿Qué quieren decir o qué indican éstos valores?**
+•	mediana de la longitud total (Mb): 3169,27
+•	mediana de GC%: 41,5096
+El contenido GC se utiliza a veces para clasificar organismos en taxonomía, también en una secuencia genómica larga los genes se caracterizan por un elevado GC en comparación con el genoma completo. Un ADN con bajo contenido de GC es menos estable que el ADN con alto contenido de GC. 
 
 ## Pregunta 10
 
 **¿Qué tipo de tecnología se uso para secuenciar el genoma del Bonobo? ¿Qué método (programa o algorítmo bioinformático) se usó para ensamblar el genoma?**
 
-
-
+El genoma se ensambló utilizando el software Celera Assembler de código abierto, se secuenciaron 19 individuos de bonobos y chimpancés en la plataforma Illumina GAIIx teniendo una cobertura genómica de aproximadamente el doble por individuo.
